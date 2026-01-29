@@ -1,6 +1,6 @@
 cask "vidpreview" do
-  version "3.0"
-  sha256 "0dc9eedacd2c82bb8cbff9af96f8c036db71d18cc7ac1972d95f3ec9f7b41001"
+  version "4.0"
+  sha256 "c0837ad0b137534239bb184293dc1304fbc658da7f5ad051fac809dc130615d6"
 
   url "https://github.com/ptaru/VidPreview/releases/download/#{version}/VidPreview.zip"
   name "VidPreview"
