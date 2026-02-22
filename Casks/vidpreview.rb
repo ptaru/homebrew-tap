@@ -2,7 +2,7 @@ cask "vidpreview" do
   version "5.1"
 
   on_arm do
-    sha256 "f429f63013dac645dc0777cfc76799a2c6f19366ea875a39afded0823c5c24a2"
+    sha256 "5ec97c4c3f0d8d5032a64e91ec67ad03b82f85a089e3ae82a78d88c305b3a103"
 
     url "https://github.com/ptaru/VidPreview/releases/download/#{version}/VidPreview_arm64.zip"
   end
